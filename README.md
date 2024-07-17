@@ -15,7 +15,9 @@ The QR code will be saved as 'bip39_qr_code.png' in the current directory.
 
 ### Credits: All my thanks to our partner [@jvx](https://github.com/jvxis) who came up with this script
 
-# This script requires the following Python packages:
+# Step By Step
+
+### This script requires the following Python packages:
  * qrcode
  * pillow (PIL)
  
@@ -25,6 +27,10 @@ pip install qrcode[pil] pillow
 ```
 Additionally, you need to have a BIP39 wordlist file named 'bip39_wordlist.txt' in the same directory as this script. Save this file as 'bip39_wordlist.txt'.
 
+### Cloning this repositorie
+```
+git clone https://github.com/emtll/11bits-matrix-generator.git
+```
 ### Running Script
 ```
 cd 11bits-matrix-generator
