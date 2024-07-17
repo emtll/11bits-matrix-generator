@@ -27,7 +27,7 @@ pip install qrcode[pil] pillow
 ```
 Additionally, you need to have a BIP39 wordlist file named 'bip39_wordlist.txt' in the same directory as this script. Save this file as 'bip39_wordlist.txt'.
 
-### Cloning this repositorie
+### Cloning this repository
 ```
 git clone https://github.com/emtll/11bits-matrix-generator.git
 ```
