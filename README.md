@@ -47,3 +47,11 @@ python3 11bits-mxgen.py
 * At the same time, the script will deliver a matrix indicating where to mark the seed plate with the punch. Check emojis indicate the positions to be marked and "X" emojis indicate spaces that will be left blank.
 
 * A QRCode of the input seed will also be generated in a .png file
+
+# Result:
+
+![image](https://github.com/user-attachments/assets/5ed9e4d8-b9d9-413c-916f-e7c07c92eef0)
+
+![image](https://github.com/user-attachments/assets/8d8d99a7-5bea-4bcc-ab4c-bdbb74ee0a12)
+
+
