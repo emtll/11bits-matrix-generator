@@ -33,7 +33,7 @@ git clone https://github.com/emtll/11bits-matrix-generator.git
 ```
 ### Running Script
 ```
-cd 11bits-matrix-generator
+cd 11bits-matrix-generator/
 ```
 
 ```
